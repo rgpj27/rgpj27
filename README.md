@@ -17,4 +17,4 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]: www.linkedin.com/in/roberto-graciano-74105a255
+[linkedin]: https://www.linkedin.com/in/roberto-graciano-74105a255/?trk=public-profile-join-page
